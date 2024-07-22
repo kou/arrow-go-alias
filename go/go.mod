@@ -1,4 +1,4 @@
-module github.com/kou/arrow-go-alias/go
+module github.com/kou/arrow-go-alias/go/v17
 
 go 1.22.5
 
